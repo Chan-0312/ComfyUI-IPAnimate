@@ -4,7 +4,8 @@
 ![生成视频](./demo/output.gif)
 
 ## 使用介绍
-- 与[Steerable-motion](https://github.com/banodoco/Steerable-Motion)结构类似，我们提供了线性和动态两种控制方式，并且提供了外置ControlNet图片的输入，提供更多的可玩性。
+- 与[Steerable-motion](https://github.com/banodoco/Steerable-Motion)结构类似，我们提供了线性和动态两种控制方式，并且提供了外置ControlNet图片的输入，以提供更多的可玩性。
+
 ![模型](./demo/model.png)
 - 主要参数：
     - 变化帧长度
